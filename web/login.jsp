@@ -21,6 +21,9 @@
                         <td> <input type="text" name="Name" value="" size="30" /> </td>
                         <td>Press enter key after typing username </td>
                     </tr>
+                    <tr>
+                        <td><a href="/Demo/forget.jsp">Forgot Password</a></td>
+                    </tr>
                 </tbody>
             </table>       
             <%
